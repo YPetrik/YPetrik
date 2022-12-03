@@ -1,2 +1,3 @@
-Hi there 👋 , I'm Yuriy
+Hi there 👋. 
+I'm Yuriy
 And I'm a JavaScript Developer
