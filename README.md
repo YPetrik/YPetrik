@@ -1,11 +1,14 @@
 Hi there 🙋🏼‍♂️.
-<p class="bold">I'm Yuriy</p> 
+<p>I'm Yuriy</p> 
 And I'm a JavaScript Developer 👨🏼‍💻
 
 <h2 align="center">📲 Find me:</h2>
 <p align="center" align='right'>
   <a target="_blank"href="mailto:yrii.petrik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://t.me/yuriy_petrik"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://t.me/yuriy_petrik"><img src="https://hh.ru/applicant/resumes/view?resume=89614f95ff054ea87b0039ed1f676944356c49" /></a>&nbsp;&nbsp;&nbsp;
+  
+  
 </p>
 
 My tech stack:
