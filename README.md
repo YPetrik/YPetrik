@@ -1,5 +1,6 @@
-Hi there 👋. 
-I'm Yuriy
+Hi there 👋.
+<p> I'm Yuriy </p>
+
 And I'm a JavaScript Developer
 
 <h2 align="center">📲 Find me:</h2>
