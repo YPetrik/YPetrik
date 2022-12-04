@@ -1,5 +1,5 @@
 Hi there 🙋🏼‍♂️.
-<p> I'm Yuriy </p> </b>
+<p><b>I'm Yuriy</b></p> 
 And I'm a JavaScript Developer 👨🏼‍💻
 
 <h2 align="center">📲 Find me:</h2>
