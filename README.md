@@ -4,7 +4,7 @@ And I'm a JavaScript Developer
 
 <h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
-  <a target="_blank"href="yrii.petrik@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="mailto:yrii.petrik@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://t.me/yuriy_petrik"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
