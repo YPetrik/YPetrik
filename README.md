@@ -1,8 +1,10 @@
-<h3>Hi there 🙋🏼‍♂️.</h3>
+<h3> Hi there 🙋🏼‍♂️. </h3>
 
-<p><h3>I'm Yuriy</h3></p> 
+<p>
+ <h3> I'm Yuriy </h3> 
+</p> 
 
-<h3>And I'm a JavaScript Developer 💻👨</h3>
+<h3> And I'm a JavaScript Developer 👨🏼‍💻 </h3>
 
 <h1 align="center">📲 Find me:</h1>
 <p align="center" align='right'>
