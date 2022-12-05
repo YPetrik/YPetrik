@@ -12,9 +12,9 @@
  <a target="_blank"href="mailto:yrii.petrik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+------------------------------
+
 My tech stack:
-
-
 
 Технологии | Описание | Инструменты
 --- |------------------------------| ---
