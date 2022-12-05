@@ -1,4 +1,4 @@
-Hi there 🙋🏼‍♂️.
+Hi there 🙋🏼‍♂️. <h3>Hi there 🙋🏼‍♂️.</h3>
 <p>I'm Yuriy</p> 
 And I'm a JavaScript Developer 👨🏼‍💻
 
