@@ -6,6 +6,8 @@
 
 <h3> And I'm a JavaScript Developer 👨🏼‍💻 </h3>
 
+------------------------------
+
 <h1 align="center"> 📲 Find me: </h1>
 <p align="center" align='right'>
  <a target="_blank"href="https://t.me/yuriy_petrik"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
