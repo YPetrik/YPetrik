@@ -6,6 +6,9 @@
 
 <h3> And I'm a JavaScript Developer 👨🏼‍💻 </h3>
 
+
+<iframe src="https://giphy.com/embed/m6pvmOSXuTEPaKFWBz" width="475" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CleverCodeLab-nft-computer-working-m6pvmOSXuTEPaKFWBz">via GIPHY</a></p>
+
 ------------------------------
 
 <h1 align="center"> 📲 Find me: </h1>
