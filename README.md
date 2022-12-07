@@ -6,8 +6,10 @@
 
 <h3> And I'm a JavaScript Developer 👨🏼‍💻 </h3>
 
+<div align="center"> 
+ <img src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif">
+</div>
 
-<img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif">
 
 ------------------------------
 
