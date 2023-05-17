@@ -5,11 +5,11 @@
 </p> 
 
 <h3> And I'm a frontend developer 👨🏼‍💻 </h3>
-
+<!-- 
 <div align="center"> 
  <img src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif">
 </div>
-
+ -->
 
 ------------------------------
 
